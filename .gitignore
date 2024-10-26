@@ -2,3 +2,5 @@
 .firebase
 .firebase-debug.log
 /public/gallery/images/
+node_modules
+firebase-debug.log
